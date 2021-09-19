@@ -1,2 +1,2 @@
 # CLEAS
-the reproduction of 'Efficient Architecture Search for Continual Learning'
+the source codes of 'Efficient Architecture Search for Continual Learning'
