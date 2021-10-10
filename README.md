@@ -7,6 +7,7 @@ the source codes of 'Efficient Architecture Search for Continual Learning'
 
 # Dataset
 We use the publicly common datasets to verify the performance of our CLEAS, i.e., CIFIR-100 and two variants of MNIST.
+* http://yann.lecun.com/exdb/mnist/
 
 # Usage
 *  python CLEAS.py for MNIST
