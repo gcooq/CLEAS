@@ -12,7 +12,7 @@ We use the publicly common datasets to verify the performance of our CLEAS, i.e.
 
 # Usage
 *  python CLEAS.py for MNIST
-*  python CLEAS_CNN.py for CIFIR
+*  python CLEAS_CNN.py for CIFIR-100
 
 # Notes
 * Note that we also provide the CLEAS-C which can provide more accurate model design for CNN.
